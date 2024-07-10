@@ -96,11 +96,12 @@ p {
 ---------------------------------*/
 
 #header_wrapper {
-    background: #999999;
+    background: #efefef;
     padding: 20px 0px;
 }
 
 .header_box {
+	background: #efefef;
     position: relative;
 }
 
