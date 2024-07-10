@@ -96,7 +96,7 @@ p {
 ---------------------------------*/
 
 #header_wrapper {
-    padding: 0px 0px;
+    padding: 20px 0px;
 }
 
 .header_box {
@@ -217,6 +217,7 @@ p {
 }
 
 .hero_section {
+     padding: 20px 0px;
     position: relative; 
 }
 
