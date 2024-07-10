@@ -1552,11 +1552,11 @@ div.mc-image {
 /*
    Media Queries
 --------------------------- */
-@media (min-width: 80%) {
+@media (min-width: 768px) {
 
 
 }
-@media (max-width: 80%) {
+@media (max-width: 768px) {
 .bannerImg{
 display:none;
 }
