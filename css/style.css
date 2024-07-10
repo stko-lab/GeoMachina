@@ -12,7 +12,7 @@ Do not remove the back-link in this web template
 /* Reset
 ---------------------------------*/
 ul {
-    list-style: none;
+    list-style: inside;
 }
 
 .figure {
